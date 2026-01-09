@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hey there 👋, I'm Shikha</h1>
+<h3 align="center">📊 Data Science Enthusiast| 💻 Frontend Developer</h3>
 
-<!--
-**shikhayadavv/shikhayadavv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="shikhayadav1703@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shikha-yadav">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/shikhayadavv">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+## 📊 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I am currently focusing on **Data Science** and developing strong analytical thinking.
+- Strengthening **DSA using Java** for better problem-solving.
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,java,python,DSA,git,github,vscode" />
+</p>
