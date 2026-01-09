@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Shikha</h1>
+<h1 align="center">👋Hi.., I'm Shikha</h1>
 <h3 align="center">📊 Data Science Enthusiast| 💻 Frontend Developer</h3>
 
 <p align="center">
@@ -15,8 +15,8 @@
 
 **📊 About Me**
 
-- I am currently focusing on **Data Science** and developing strong analytical thinking.
-- Strengthening **DSA using Java** for better problem-solving.
+- I am currently focusing on building strong expertise in **Data Science** and analytical problem-solving.
+- Strengthening **DSA** for better problem-solving.
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,java,python,git,github,vscode" />
