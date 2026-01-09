@@ -18,6 +18,8 @@
 - I am currently focusing on building strong expertise in **Data Science** and analytical problem-solving.
 - Strengthening **DSA** for better problem-solving.
 
-<p>
+**🛠 Tech Stack**
+
+<p align ="center>
 <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,java,python,git,github,vscode" />
 </p>
