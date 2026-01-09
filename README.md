@@ -1,5 +1,5 @@
 <h1 align="center">👋Hi.., I'm Shikha</h1>
-<h3 align="center">📊 Data Science Enthusiast| 💻 Frontend Developer</h3>
+<h3 align="center">📊 Data Science Enthusiast | 💻 Frontend Developer</h3>
 
 <p align="center">
   <a href="shikhayadav1703@gmail.com">
