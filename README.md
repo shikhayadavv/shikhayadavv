@@ -13,11 +13,11 @@
   </a>
 </p>
 
-## 📊 About Me
+**📊 About Me**
 
 - I am currently focusing on **Data Science** and developing strong analytical thinking.
 - Strengthening **DSA using Java** for better problem-solving.
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,java,python,DSA,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,java,python,git,github,vscode" />
 </p>
