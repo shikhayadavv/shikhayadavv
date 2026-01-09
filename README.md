@@ -16,10 +16,6 @@
 **📊 About Me**
 
 - I am currently focusing on building strong expertise in **Data Science** and analytical problem-solving.
+- Working on understanding data patterns, insights, and real-world applications.
 - Strengthening **DSA** for better problem-solving.
 
-**🛠 Tech Stack**
-
-<p align ="center">
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,java,python,git,github,vscode" />
-</p>
